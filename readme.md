@@ -1,7 +1,7 @@
-Hello Odin!
-This is a repo made for learning web dev stuff with Odin Project.
-Index.html created!
+#Hello Odin!
+<p>This is a repo made for learning web dev stuff with `Odin Project`.</p>
 
-Progress Tracker:
-    - Foundations Course - In Progress
-        -Introduction - <span style="color:red;">Complete</span>
+##Progress Tracker:
+<ol>
+    <li>- Foundations Course - In Progress</li>
+</ol>
