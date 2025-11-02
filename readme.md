@@ -3,5 +3,5 @@
 
 ## Progress Tracker:
 <ol>
-    <li>- Foundations Course - <span style = "green">In Progress</span></li>
+    <li>- Foundations Course - $${\color{green}In Progress}$$</li>
 </ol>
