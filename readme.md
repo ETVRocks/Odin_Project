@@ -4,3 +4,4 @@ Index.html created!
 
 Progress Tracker:
     - Foundations Course - In Progress
+        -Introduction - <span style="color:red;">Complete</span>
