@@ -3,7 +3,7 @@
 
 ## Progress Tracker:
 <ol>
-    <li>- Foundations Course - $${\color{green}In Progress}$$</li>
+    <li>- Foundations Course - $${\color{green}In \space Progress}$$</li>
 </ol>
 
 |Project|Course|Link|
